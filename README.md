@@ -10,3 +10,4 @@ I suggest we keep reading and learning around this more to understand AGI and "W
 
 - NVIDIA has interesting definitions and details about [NVIDIA ref on world models](https://www.nvidia.com/en-au/glossary/world-models/)
 - [ARXIV reference on world models](https://arxiv.org/abs/1803.10122)
+- [Concepts by Packy M](https://www.notboring.co/p/world-models)
