@@ -7,3 +7,6 @@ While 'hype' is a constant in technology, it’s often the catalyst for practica
 
 ## References
 I suggest we keep reading and learning around this more to understand AGI and "World Models" better.
+
+- NVIDIA has interesting definitions and details about [NVIDIA ref on world models](https://www.nvidia.com/en-au/glossary/world-models/)
+- [ARXIV reference on world models](https://arxiv.org/abs/1803.10122)
